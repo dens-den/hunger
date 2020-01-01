@@ -1,3 +1,4 @@
 baseURL = "https://hunger.dpat.in/"
 languageCode = "en-US"
 title = "HUNgarian ⇄ GERman"
+theme = "ezhil"

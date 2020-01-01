@@ -7,14 +7,17 @@
 
 		<div class="recent-posts section">
 			<h2 class="section-header">
-				Recent posts
+				friss bejegyzések / letzte Einträge / recent posts
 			</h2>
 			<div class="posts">
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<div class="post">
-					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
+					<div class="meta">
+						{{.Date.Day}} {{ index $.Site.Data.Months.hu .Date.Month }}/{{ index $.Site.Data.Months.de .Date.Month }}/{{ .Date.Month }} {{.Date.Year}}
+						{{ if .Draft }} <span class="draft-label">VÁZLAT / ENTWURF / DRAFT</span> {{ end }}
+					</div>
 					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
 					<span class="description">
 						{{ if isset .Params "description" }}
