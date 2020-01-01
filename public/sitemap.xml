@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hunger.dpat.in/posts/001-easiest-way-to-airport/</loc>
+    <lastmod>2020-01-01T16:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hunger.dpat.in/</loc>
+    <lastmod>2020-01-01T16:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hunger.dpat.in/posts/</loc>
+    <lastmod>2020-01-01T16:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hunger.dpat.in/posts/000-what-is-it/</loc>
+    <lastmod>2019-12-31T23:59:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hunger.dpat.in/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hunger.dpat.in/tags/</loc>
+  </url>
+  
+</urlset>

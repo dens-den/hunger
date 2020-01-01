@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HUNgarian ⇄ GERman</title>
+    <link>https://hunger.dpat.in/</link>
+    <description>Recent content on HUNgarian ⇄ GERman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Jan 2020 16:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://hunger.dpat.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>001 — Kérdezze meg a szálloda portását, hogy juthat el legkönnyebben a repülőtérre!</title>
+      <link>https://hunger.dpat.in/posts/001-easiest-way-to-airport/</link>
+      <pubDate>Wed, 01 Jan 2020 16:00:00 +0300</pubDate>
+      
+      <guid>https://hunger.dpat.in/posts/001-easiest-way-to-airport/</guid>
+      <description>Délután négy órára kint kell lennem a repülőtéren.
+Um vier Uhr nachmittags muss ich am Flughafen sein.
+I have to be at the airport at four in the afternoon.
+Kérem, mondja meg, hogyan jutok el a legkönnyebben oda?
+Sagen Sie mir, bitte, wie ich am einfachsten hinkomme.
+Please tell me how I can get there the easiest.
+A közvetlen repülőtéri járatok az utazási iroda előtt állnak.
+Die Zubringerbusse stehen vor dem Reisebüro.</description>
+    </item>
+    
+    <item>
+      <title>What Is It All About</title>
+      <link>https://hunger.dpat.in/posts/000-what-is-it/</link>
+      <pubDate>Tue, 31 Dec 2019 23:59:59 +0300</pubDate>
+      
+      <guid>https://hunger.dpat.in/posts/000-what-is-it/</guid>
+      <description>Hi everyone!
+Half a month ago I was in one book shop in Budapest where I bought an amazing book. The book that can finally satisfy my curiosity in both Hungarian and German languages. It&#39;s named “Hogy mondjunk németül?“ (~ “How to speak German?“).
+What I&#39;m going to do is to publish bilingual texts from the book few times a week, giving simultaneously an English translation, too. There&#39;re in general 290 entries so it should be done the way that by the end of the year all the entries are considered.</description>
+    </item>
+    
+  </channel>
+</rss>
