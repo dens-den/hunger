@@ -18,16 +18,7 @@
 						{{.Date.Day}} {{ index $.Site.Data.Months.hu .Date.Month }}/{{ index $.Site.Data.Months.de .Date.Month }}/{{ .Date.Month }} {{.Date.Year}}
 						{{ if .Draft }} <span class="draft-label">VÁZLAT / ENTWURF / DRAFT</span> {{ end }}
 					</div>
-					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
-					<span class="description">
-						{{ if isset .Params "description" }}
-						{{ .Description }}
-						{{ else if gt (len .RawContent) 120 }}
-						{{ slicestr .RawContent 0 120 }}...
-						{{ else }}
-						{{ .RawContent }}
-						{{ end }}
-					</span>
+					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a>
 				</div>
 				{{ end }}
 				{{ template "partials/paginator.html" . }}

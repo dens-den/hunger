@@ -375,6 +375,39 @@ ul {
     text-align: right;
 }
 
+.hu {
+    margin: 0px;
+    padding-left: 30px;
+    background-image: url(../flags/hu.svg);
+    background-repeat: no-repeat;
+}
+.hu-big {
+    margin: 0px;
+    padding-left: 50px;
+    background-image: url(../flags/hu.svg);
+    background-repeat: no-repeat;
+}
+
+.de {
+    margin: 0px;
+    padding-left: 30px;
+    background-image: url(../flags/de.svg);
+    background-repeat: no-repeat;
+}
+.de-big {
+    margin: 0px;
+    padding-left: 50px;
+    background-image: url(../flags/de.svg);
+    background-repeat: no-repeat;
+}
+
+.en {
+    margin: 0px;
+    padding-left: 30px;
+    background-image: url(../flags/en.svg);
+    background-repeat: no-repeat;
+}
+
 @media (max-width: 767px) {
     body {
         padding: 20px;
