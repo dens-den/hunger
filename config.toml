@@ -5,3 +5,8 @@ theme = "ezhil"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "➢ What Is Here?"
+    url = "/posts/000-what-is-it/"
