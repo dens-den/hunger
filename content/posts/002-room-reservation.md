@@ -8,27 +8,27 @@ draft: false
 
 <span class="hu">Jó napot kívánok!</span><br />
 <span class="de">Guten Tag!</span><br />
-<span class="en"></span><br />
+<span class="en">Good day!</span><br />
 <br />
 <span class="hu">Három napot szeretnék a Balatonnál tölteni.</span><br />
 <span class="de">Ich möchte drei Tage am Balaton verbringen.</span><br />
-<span class="en"></span><br />
+<span class="en">I would like to spend three days at Lake Balaton.</span><br />
 <br />
 <span class="hu">Milyen szálláslehetőségeik vannak?</span><br />
 <span class="de">Bitte, was für Unterkunftsmöglichkeiten haben Sie da?</span><br />
-<span class="en"></span><br />
+<span class="en">What accommodation possibilities do you have?</span><br />
 <br />
 <span class="hu">Vagy szállodában vagy fizetővendég-szobában tudjuk elhelyezni.</span><br />
 <span class="de">Wir können Sie entweder im Hotel oder in einem Privatzimmer unterbringen.</span><br />
-<span class="en"></span><br />
+<span class="en">We can either accommodate you in the hotel or in a private room.</span><br />
 <br />
 <span class="hu">A fizetővendég-szoba olcsóbb.</span><br />
 <span class="de">Das Privatzimmer ist natürlich billiger.</span><br />
-<span class="en"></span><br />
+<span class="en">The private guest room is cheaper.</span><br />
 <br />
 <span class="hu">Az utóbbit választanám, ha van a szobához fürdőszoba, és ha a ház nincs túl messze a vízparttól.</span><br />
 <span class="de">Ich würde eher das letztere wählen, wenn zum Zimmer auch ein Bad gehört, und wenn das Haus nicht zu weit vom Strand entfernt liegt.</span><br />
-<span class="en"></span><br />
+<span class="en">I would choose the latter if the room has a bathroom and the house is not too far from the beach.</span><br />
 
 ---
 
