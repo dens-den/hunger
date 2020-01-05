@@ -4,7 +4,7 @@ date: 2020-01-02T13:00:00+03:00
 draft: false
 ---
 
-## a) 
+## a)
 
 <span class="hu">Jó napot kívánok!</span><br />
 <span class="de">Guten Tag!</span><br />

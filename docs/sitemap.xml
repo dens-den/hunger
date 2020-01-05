@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hunger.dpat.in/posts/002-room-reservation/</loc>
-    <lastmod>2020-01-02T13:00:00+03:00</lastmod>
+    <loc>https://hunger.dpat.in/posts/003-making-the-train/</loc>
+    <lastmod>2020-01-04T21:00:00+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://hunger.dpat.in/</loc>
-    <lastmod>2020-01-02T13:00:00+03:00</lastmod>
+    <lastmod>2020-01-04T21:00:00+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://hunger.dpat.in/posts/</loc>
+    <lastmod>2020-01-04T21:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hunger.dpat.in/posts/002-room-reservation/</loc>
     <lastmod>2020-01-02T13:00:00+03:00</lastmod>
   </url>
   
