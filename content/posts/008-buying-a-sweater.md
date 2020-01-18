@@ -57,7 +57,7 @@ draft: false
 — A lila most nagyon divatos szín! Hányas ey a pulóver?  
 — Kettes.  
 — Az éppen jó nekem. Ugye, lehet mosni? Milyen anyagból van?  
-— Természetesen mosható. 50 gyapjú és 50 műszál.  
+— Természetesen mosható. 50% gyapjú és 50% műszál.  
 — Akkor szerencsére vasalni sem kell. Önnél fizetek?  
 — Nem, a pénztárnál.
 
@@ -68,7 +68,7 @@ draft: false
 — Lila ist jetzt sehr modisch. Welche Größe ist das?  
 — Größe 2.  
 — Ja, Größe 2 brauche ich. Sagen Sie, kann man den waschen? Was für Material ist das?  
-— Natürlich können Sie ihn waschen. Das sind 50 Wolle und 50 Kunstfasern.  
+— Natürlich können Sie ihn waschen. Das sind 50% Wolle und 50% Kunstfasern.  
 — Dann brauche ich ihn zum Glück nicht zu bügeln. Zahle ich bei Ihnen?  
 — Nein, an der Kasse bitte.
 
