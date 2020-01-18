@@ -1,6 +1,6 @@
 ---
 title: "004 — Nem érzi jól a magát, fáj a feje, szédül. Forduljon orvoshoz!"
-date: 2020-01-06T22:00:00+03:00
+date: 2020-01-07T16:00:00+03:00
 draft: false
 ---
 

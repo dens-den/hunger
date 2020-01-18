@@ -1,6 +1,6 @@
 ---
 title: "002 — Érdeklődjön szállás után egy utazási irodában!"
-date: 2020-01-02T13:00:00+03:00
+date: 2020-01-03T16:00:00+03:00
 draft: false
 ---
 

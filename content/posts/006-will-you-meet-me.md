@@ -1,6 +1,6 @@
 ---
 title: "006 — Közölje telefonon egy külföldi ismerősével, hogy mikor, milyen járattal érkezik hozzájuk. Kérje meg, hogyha lehet, menjen ki Ön elé a repülőtérre!"
-date: 2020-01-09T20:00:00+03:00
+date: 2020-01-11T16:00:00+03:00
 draft: false
 ---
 

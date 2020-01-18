@@ -1,6 +1,6 @@
 ---
 title: "003 — Kérje meg a taxisofőrt, hogy vigye gyorsan a pályaudvarra, mert fél óra múlva indul a vonata!"
-date: 2020-01-04T21:00:00+03:00
+date: 2020-01-05T16:00:00+03:00
 draft: false
 ---
 
