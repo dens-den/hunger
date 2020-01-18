@@ -12,7 +12,7 @@ echo "$DETEXT" | sed 's/^..//' | perl -pe 's/([!?.]) /\1\n/g' > $DE
 
 while IFS= read -r phrase_hu
 do
-  phrase_de=$(head -n 1 $DE)
+  phrase_de="$(head -n 1 $DE)"
   printf "<span class=\"hu\">$phrase_hu</span><br />\n" >> $OUTPUT
   printf "<span class=\"de\">$phrase_de</span><br />\n" >> $OUTPUT
   printf "<br />\n" >> $OUTPUT
