@@ -8,7 +8,7 @@ Hi everyone!
 
 Half a month ago I was in one book shop in Budapest where I bought an amazing book. The book that can finally satisfy my curiosity in both Hungarian and German languages. It's named “Hogy mondjunk németül?“ (~ “How to speak German?“).
 
-What I'm going to do is to publish bilingual texts from the book few times a week, giving simultaneously an English translation, too. There're in general 290 entries so it should be done the way that by the end of the year all the entries are considered.
+What I'm going to do is to publish bilingual texts from the book few times a week. There're in general 290 entries so it should be done the way that by the end of the year all the entries are considered.
 
 The goals I personally pursue are the following:
 
