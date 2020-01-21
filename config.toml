@@ -9,4 +9,4 @@ theme = "ezhil"
 [menu]
   [[menu.main]]
     name = "➢ What Is Here?"
-    url = "/posts/000/"
+    url = "/posts/intro/"
